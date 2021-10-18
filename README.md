@@ -1,3 +1,6 @@
+# linked to
+https://github.com/socketio/socket.io-client/issues/1504
+
 # use socket.io-client with a third party library
 
 ## build lib part
